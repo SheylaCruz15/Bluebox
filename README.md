@@ -1,2 +1,0 @@
-# Bluebox
- Fundamentos de software
